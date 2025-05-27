@@ -1,4 +1,4 @@
-# 🧩 Wiz scanner plugin for Copacitic
+# 🧩 Clair scanner plugin for Copacitic
 
 This is a template repo for creating a scanner plugin for [Copacetic](https://github.com/project-copacetic/copacetic).
 
